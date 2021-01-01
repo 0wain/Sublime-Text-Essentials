@@ -25,6 +25,9 @@ A list of personal essentials for Sublime Text [3].
 **Terminus**
 - [Website](https://github.com/randy3k/Terminus)
 
+**WakaTime**
+- [Website](https://wakatime.com/sublime-text)
+
 # Themes
 **Edge** - Active
 - [Website](https://packagecontrol.io/packages/Edge%20Theme)
