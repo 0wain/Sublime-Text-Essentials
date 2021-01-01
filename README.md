@@ -19,7 +19,7 @@ A list of personal essentials for Sublime Text [3].
 **Gmod Lua**
 - [Website](https://packagecontrol.io/packages/GMod%20Lua)
 
-**Sublime Git**
+**SublimeGit**
 - [Website](https://packagecontrol.io/packages/SublimeGit)
 
 **Terminus**
