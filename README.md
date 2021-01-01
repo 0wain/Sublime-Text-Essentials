@@ -32,5 +32,5 @@ A list of personal essentials for Sublime Text [3].
 **Dark Matter**
 - [Website](https://packagecontrol.io/packages/Theme%20-%20Darkmatter)
 
-**ONe Dark**
+**One Dark**
 - [Webiste](https://packagecontrol.io/packages/Theme%20-%20One%20Dark)
